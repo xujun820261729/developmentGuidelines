@@ -13,7 +13,7 @@
 ```
 
 ```bash
-4,angular ngmodaul
+4,angular1 4 8 
 ```
 
 ```bash
