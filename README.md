@@ -5,7 +5,7 @@
 ```
 
 ```bash
-2,javascript 闭包 原型链 面对对想
+2,javascript 闭包 原型链 面对对象
 ```
 
 ```bash
@@ -13,7 +13,7 @@
 ```
 
 ```bash
-4,angular ngmodaul
+4,angular1 4 8 
 ```
 
 ```bash
@@ -25,7 +25,7 @@
 ```
 
 ```bash
-7,WeChat -微信端小程序、公众号
+7,WeChat -微信端小程序、公众号 mpvue 
 ```
 
 ```bash
