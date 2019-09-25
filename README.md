@@ -25,7 +25,7 @@
 ```
 
 ```bash
-7,WeChat -微信端小程序、公众号
+7,WeChat -微信端小程序、公众号 mpvue 
 ```
 
 ```bash
