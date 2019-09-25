@@ -5,7 +5,7 @@
 ```
 
 ```bash
-2,javascript 闭包 原型链 面对对想
+2,javascript 闭包 原型链 面对对象
 ```
 
 ```bash
