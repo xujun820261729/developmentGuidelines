@@ -1,19 +1,21 @@
 # 学习指引
 
-1. 1,html5,css3 
-- 垂直居中方法 [学习指引](https://github.com/xujun820261729/testjun/blob/master/JS/!%E5%92%8C!!.md)
+#### 1,html5,css3 
+- 垂直居中方法 [跳转](https://github.com/xujun820261729/testjun/blob/master/CSS/%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD.md)
+- 深入理解vertical-align [跳转](https://github.com/xujun820261729/testjun/blob/master/CSS/%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD.md)
+- 深入理解display属性 [跳转](https://github.com/xujun820261729/testjun/blob/master/CSS/%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD.md)
 
-2. 1,javascript 闭包 原型链 面对对象
+#### 1,javascript 闭包 原型链 面对对象
 
-3. react hooks  hoc redux flux antd 
+#### react hooks  hoc redux flux antd 
 
-4. angular1 4 8 
+#### angular1 4 8 
 
-5. vue xuex cli2.x cli3.x
+#### vue xuex cli2.x cli3.x
 
-6. node.js -express  koa  Egg
+#### node.js -express  koa  Egg
 
-7. WeChat -微信端小程序、公众号 mpvue 
+#### WeChat -微信端小程序、公众号 mpvue 
 
-8. flutter -谷歌新的移动开发框架
+#### flutter -谷歌新的移动开发框架
 
