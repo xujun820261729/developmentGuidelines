@@ -5,17 +5,32 @@
 - 深入理解vertical-align [跳转](https://github.com/xujun820261729/testjun/blob/master/CSS/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3vertical-align.md)
 - 深入理解display属性 [跳转](https://github.com/xujun820261729/testjun/blob/master/CSS/display%E5%B1%9E%E6%80%A7.md)
 
-### javascript 闭包 原型链 面对对象
+### Javascript
+- 基础 [跳转](https://www.w3school.com.cn/js/index.asp)
 
-### react hooks  hoc redux flux antd 
+### Typescript
+- 基础 [跳转](https://www.tslang.cn/)
 
-### angular1 4 8 
+### React 声明式 组件化 一次学习，随处编写
+- Api [官网](https://react-1251415695.cos-website.ap-chengdu.myqcloud.com/)
 
-### vue xuex cli2.x cli3.x
+### Angular
+- angular1 [学习指引](https://www.cnblogs.com/l000/p/8926826.html)
+- angular [官网](https://www.angular.cn/)
 
-### node.js -express  koa  Egg
+### Vue  渐进式
+- Api  [官网](https://cn.vuejs.org/)
 
-### WeChat -微信端小程序、公众号 mpvue 
+### Node.js 使用了一个事件驱动、非阻塞式 I/O 的模型，使其轻量又高效。 
+- Api  [官网](http://www.expressjs.com.cn/)
+- koa2-个人微博 [跳转](https://github.com/xujun820261729/Koa2-mysql)
+- Egg [官网](https://eggjs.org/zh-cn/intro/quickstart.html)
+- Express [官网](http://www.expressjs.com.cn/)
 
-### flutter -谷歌新的移动开发框架
+### WeChat
+- 小程序 - Api [官网](https://developers.weixin.qq.com/miniprogram/dev/api/)
+- 微信公众号 - Api [官网](https://developers.weixin.qq.com/doc/offiaccount/Getting_Started/Explanation_of_interface_privileges.html)
+
+### Flutter
+- Api  [官网](https://flutterchina.club/)
 
