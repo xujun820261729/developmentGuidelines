@@ -16,7 +16,7 @@
 
 ### React 声明式 组件化 一次学习，随处编写
 
-- [官网](https://react-1251415695.cos-website.ap-chengdu.myqcloud.com/) [数据流方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/React/%E6%95%B0%E6%8D%AE%E6%B5%81%E6%96%B9%E6%A1%88.md)
+- [官网](https://react-1251415695.cos-website.ap-chengdu.myqcloud.com/)、 [数据流方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/React/%E6%95%B0%E6%8D%AE%E6%B5%81%E6%96%B9%E6%A1%88.md)
 - [个人项目-js](https://github.com/xujun820261729/umi-react)
 - [个人项目-ts](https://github.com/xujun820261729/TS-React)
 
