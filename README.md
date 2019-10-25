@@ -9,7 +9,7 @@
 ### Javascript
 
 -  [基础](https://www.w3school.com.cn/js/index.asp) 、 [JS教程](https://wangdoc.com/javascript/index.html)
--  [解析本地文件](https://www.w3school.com.cn/js/index.asp)
+-  [解析本地文件](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/FileReader.md)
 
 ### Typescript
 
@@ -17,7 +17,7 @@
 
 ### React 声明式 组件化 一次学习，随处编写
 
-- [官网](https://react-1251415695.cos-website.ap-chengdu.myqcloud.com/) 、 [数据流方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/React/%E6%95%B0%E6%8D%AE%E6%B5%81%E6%96%B9%E6%A1%88.md)、[响应式布局方案]
+- [官网](https://react-1251415695.cos-website.ap-chengdu.myqcloud.com/) 、 [数据流方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/React/%E6%95%B0%E6%8D%AE%E6%B5%81%E6%96%B9%E6%A1%88.md)、[响应式布局方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/React/%E5%93%8D%E5%BA%94%E5%BC%8F%E5%B8%83%E5%B1%80.md)
 - [个人项目-js](https://github.com/xujun820261729/umi-react)
 - [个人项目-ts](https://github.com/xujun820261729/TS-React)
 
