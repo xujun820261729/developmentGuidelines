@@ -9,7 +9,7 @@
 ### Javascript
 
 -  [基础](https://www.w3school.com.cn/js/index.asp) 、 [JS教程](https://wangdoc.com/javascript/index.html)
--  [解析本地文件](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/FileReader.md)
+-  [解析本地文件](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/FileReader.md)、[加密方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/FileReader.md)
 
 ### Typescript
 
