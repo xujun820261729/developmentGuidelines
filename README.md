@@ -1,14 +1,15 @@
 # 学习指引
 
 ### html5,css3
-
+- []
 - [垂直居中方法](https://github.com/xujun820261729/testjun/blob/master/CSS/%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD.md)
 - [深入理解 vertical-align](https://github.com/xujun820261729/testjun/blob/master/CSS/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3vertical-align.md)
 - [深入理解 display 属性](https://github.com/xujun820261729/testjun/blob/master/CSS/display%E5%B1%9E%E6%80%A7.md)
 
 ### Javascript
 
--  [基础](https://www.w3school.com.cn/js/index.asp)
+-  [基础](https://www.w3school.com.cn/js/index.asp) 、 [JS教程](https://wangdoc.com/javascript/index.html)
+-  [解析本地文件](https://www.w3school.com.cn/js/index.asp)
 
 ### Typescript
 
@@ -16,7 +17,7 @@
 
 ### React 声明式 组件化 一次学习，随处编写
 
-- [官网](https://react-1251415695.cos-website.ap-chengdu.myqcloud.com/)、 [数据流方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/React/%E6%95%B0%E6%8D%AE%E6%B5%81%E6%96%B9%E6%A1%88.md)
+- [官网](https://react-1251415695.cos-website.ap-chengdu.myqcloud.com/) 、 [数据流方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/React/%E6%95%B0%E6%8D%AE%E6%B5%81%E6%96%B9%E6%A1%88.md)、[响应式布局方案]
 - [个人项目-js](https://github.com/xujun820261729/umi-react)
 - [个人项目-ts](https://github.com/xujun820261729/TS-React)
 
