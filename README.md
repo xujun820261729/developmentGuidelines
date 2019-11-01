@@ -6,45 +6,42 @@
 - [深入理解 display 属性](https://github.com/xujun820261729/testjun/blob/master/CSS/display%E5%B1%9E%E6%80%A7.md)
 
 ### Javascript
-
 -  [基础](https://www.w3school.com.cn/js/index.asp) 、 [JS教程](https://wangdoc.com/javascript/index.html)
 -  [解析本地文件](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/FileReader.md)、[加密方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/%E5%8A%A0%E5%AF%86.md)
 
 ### Typescript
-
 -  [基础](https://www.tslang.cn/)
 
 ### React 声明式 组件化 一次学习，随处编写
-
+- [坑记](https://github.com/xujun820261729/developmentGuidelines/blob/master/React/FQA.md)
 - [官网](https://react-1251415695.cos-website.ap-chengdu.myqcloud.com/) 、 [数据流方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/React/%E6%95%B0%E6%8D%AE%E6%B5%81%E6%96%B9%E6%A1%88.md)、[响应式布局方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/React/%E5%93%8D%E5%BA%94%E5%BC%8F%E5%B8%83%E5%B1%80.md)、[React-Ts方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/React/React-TS.md)
 - [个人项目-js](https://github.com/xujun820261729/umi-react)
 - [个人项目-ts](https://github.com/xujun820261729/TS-React)
 
 ### Angular
-
+- [坑记](https://github.com/xujun820261729/developmentGuidelines/blob/master/Angular/FQA.md)
 - [angular1](https://www.cnblogs.com/l000/p/8926826.html)
 - [angular官网](https://www.angular.cn/)
 
 ### Vue 渐进式
-
+- [坑记](https://github.com/xujun820261729/developmentGuidelines/blob/master/Vue/FQA.md)
 - [官网](https://cn.vuejs.org/)
 - [个人项目-后台管理](https://github.com/xujun820261729/admin-vue)
 
 ### Node.js 使用了一个事件驱动、非阻塞式 I/O 的模型，使其轻量又高效。
-
+-  [坑记]()
 -  [Express官网](http://www.expressjs.com.cn/)
 -  [koa2-个人微博](https://github.com/xujun820261729/Koa2-mysql)
 -  [Egg官网](https://eggjs.org/zh-cn/intro/quickstart.html)
 -  [个人Egg项目](https://github.com/xujun820261729/Egg-)
 
 ### WeChat
-
+- [坑记-mpvue](https://github.com/xujun820261729/developmentGuidelines/blob/master/WeChat/FQA-Vue.md)
 - [小程序Api](https://developers.weixin.qq.com/miniprogram/dev/api/)
 - [微信公众号 - Api](https://developers.weixin.qq.com/doc/offiaccount/Getting_Started/Explanation_of_interface_privileges.html)
 - [个人项目-mpvue](https://github.com/xujun820261729/mpvue)
 
 ### Flutter
-
 - [官网Api](https://flutterchina.club/)
 
 
