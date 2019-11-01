@@ -54,11 +54,8 @@ interface Point {
   onSubmit?: (error: unknown) => void; // TS3.0新增的顶级类型
   e:React.KeyboardEvent<HTMLInputElement> // 按下的类型
   // import { Dispatch } from 'redux';
-   dispatch: Dispatch<any>; // redux的类型
-     title: React.ReactNode; // React的节点
-  
-
-
+  dispatch: Dispatch<any>; // redux的类型
+  title: React.ReactNode; // React的节点
 }
 ```
 
@@ -77,7 +74,6 @@ class Login extends Component<LoginProps, LoginState> {
    constructor (theName: string) {
         this.name = theName;
     }
-
    render() {}
 }
 // 类当成接口使用
@@ -116,7 +112,5 @@ class Login extends Component<LoginProps, LoginState> {
         </span>
       );
     }
-
-
   })
 ```

@@ -1,4 +1,4 @@
-# 学习指引
+# 若不与时俱进，慎入行!
 
 ### html5,css3
 - [垂直居中方法](https://github.com/xujun820261729/testjun/blob/master/CSS/%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD.md)
@@ -50,3 +50,7 @@
 
 ### 微前端(正在爬坑...)
 - [个人微前端服务架构](https://github.com/xujun820261729/developmentGuidelines/blob/master/%E5%BE%AE%E6%9C%8D%E5%8A%A1/%E6%A6%82%E8%BF%B0.md)
+
+### 开发工具
+- [sublime text3](http://www.sublimetext.com/3)
+- [vscode](https://code.visualstudio.com/)
