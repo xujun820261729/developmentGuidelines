@@ -7,7 +7,7 @@
 
 ### Javascript
 -  [基础](https://www.w3school.com.cn/js/index.asp) 、 [JS教程](https://wangdoc.com/javascript/index.html)
--  [解析本地文件](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/FileReader.md)、[加密方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/%E5%8A%A0%E5%AF%86.md)、[模块化]()、[设计模型]]()
+-  [解析本地文件](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/FileReader.md)、[加密方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/%E5%8A%A0%E5%AF%86.md)、[模块化](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/%E6%A8%A1%E5%9D%97%E5%8C%96.md)、[设计模型](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%9E%8B.md)
 
 ### Typescript
 -  [基础](https://www.tslang.cn/)
@@ -24,7 +24,7 @@
 - [angular官网](https://www.angular.cn/)
 
 ### Vue 渐进式
-- [坑记](https://github.com/xujun820261729/developmentGuidelines/blob/master/Vue/FQA.md)
+- [坑记-vue-admin](https://github.com/xujun820261729/developmentGuidelines/blob/master/Vue/FQA.md)
 - [官网](https://cn.vuejs.org/)
 - [个人项目-后台管理](https://github.com/xujun820261729/admin-vue)
 
@@ -49,5 +49,5 @@
 - [个人微前端服务架构](https://github.com/xujun820261729/developmentGuidelines/blob/master/%E5%BE%AE%E6%9C%8D%E5%8A%A1/%E6%A6%82%E8%BF%B0.md)
 
 ### 开发工具
-- [sublime text3](http://www.sublimetext.com/3)、[常用插件]()
-- [vscode](https://code.visualstudio.com/)、[常用插件]()
+- [sublime text3](http://www.sublimetext.com/3)、[常用插件](https://github.com/xujun820261729/developmentGuidelines/blob/master/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/sublimeText3.md)
+- [vscode](https://code.visualstudio.com/)、[常用插件](https://github.com/xujun820261729/developmentGuidelines/blob/master/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/vscode.md)
