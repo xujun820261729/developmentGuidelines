@@ -3,7 +3,7 @@
 ### html5,css3
 - [垂直居中方法](https://github.com/xujun820261729/testjun/blob/master/CSS/%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD.md)
 - [深入理解 vertical-align](https://github.com/xujun820261729/testjun/blob/master/CSS/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3vertical-align.md)
-- [深入理解 display 属性](https://github.com/xujun820261729/testjun/blob/master/CSS/display%E5%B1%9E%E6%80%A7.md)、[常见CSS兼容性]()
+- [深入理解 display 属性](https://github.com/xujun820261729/testjun/blob/master/CSS/display%E5%B1%9E%E6%80%A7.md)、[常见CSS兼容性](https://github.com/xujun820261729/developmentGuidelines/blob/master/CSS/CSS%E5%85%BC%E5%AE%B9%E6%80%A7.md)、[常见的html兼容性](https://github.com/xujun820261729/developmentGuidelines/blob/master/CSS/html%E5%85%BC%E5%AE%B9%E6%80%A7.md)
 
 ### Javascript
 -  [基础](https://www.w3school.com.cn/js/index.asp) 、 [JS教程](https://wangdoc.com/javascript/index.html)
