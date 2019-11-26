@@ -7,7 +7,7 @@
 
 ### Javascript
 -  [基础](https://www.w3school.com.cn/js/index.asp) 、 [JS教程](https://wangdoc.com/javascript/index.html)
--  [解析本地文件](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/FileReader.md)、[加密方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/%E5%8A%A0%E5%AF%86.md)
+-  [解析本地文件](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/FileReader.md)、[加密方案](https://github.com/xujun820261729/developmentGuidelines/blob/master/JS/%E5%8A%A0%E5%AF%86.md)、[模块化]()、[设计模型]]()
 
 ### Typescript
 -  [基础](https://www.tslang.cn/)
@@ -49,5 +49,5 @@
 - [个人微前端服务架构](https://github.com/xujun820261729/developmentGuidelines/blob/master/%E5%BE%AE%E6%9C%8D%E5%8A%A1/%E6%A6%82%E8%BF%B0.md)
 
 ### 开发工具
-- [sublime text3](http://www.sublimetext.com/3)
-- [vscode](https://code.visualstudio.com/)
+- [sublime text3](http://www.sublimetext.com/3)、[常用插件]()
+- [vscode](https://code.visualstudio.com/)、[常用插件]()
