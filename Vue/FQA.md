@@ -134,3 +134,58 @@ A: 跟其他的脚手架不同的是,上线部署的url 配置在.env.production
             }
 
 ```
+
+#### vue中非父子传参?
+- 1.套路就是建立新的vue组件作为连通传值的作用。
+```js
+触发事件：
+  this.$bus.emit("onslected",params)
+应对事件：
+  mounted:function(){
+  this.$bus.on("onslected",function(){
+
+  });
+  },
+
+```
+
+- 2.vuex监听
+```js
+  watch:{
+    '$store.state.menuList':function (val) {
+        // 监听 store的值变化触发
+    }
+  }
+```
+
+#### transition 和 transition-group 实现的动画效果
+- <transition name='my'></transition>
+```css
+   .my-enter,.my-leave-to{
+        opacity:  0;/*透明度*/
+        transform: translateY(70px);
+    }
+  .my-enter-active,.my-leave-active{
+      transition: all 0.8s ease;
+
+  }
+
+```
+
+#### $emit、 $on 、$off 区别在?
+- $emit: 触发当前实例上的事件。附加参数都会传给监听器回调，如果没有参数，形式为vm.$emit(event)
+-  $on:监听当前实例上的自定义事件。事件可以由vm.$emit触发。回调函数会接收所有传入事件触发函数的额外参数
+- $off: 移除自定义事件监听器。
+1. 如果没有提供参数，则移除所有的事件监听器；
+2. 如果只提供了事件，则移除该事件所有的监听器；
+3. 如果同时提供了事件与回调，则只移除这个回调的监听器。
+
+
+####  VUE源码之Watcher 有何用?
+- 简单的介绍：相当于组件的重置
+
+#### vue怎么打开pdf文件?
+- 使用pdf.js 插件或者vuepdf等
+
+#### Vue中多页面开发?
+- vue.config中配置pages 增加元素,相当于多个单独的页面

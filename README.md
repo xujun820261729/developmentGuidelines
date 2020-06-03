@@ -44,6 +44,9 @@
 ### Flutter
 - [官网Api](https://flutterchina.club/)
 
+### 移动端布局
+- [rem布局](https://github.com/xujun820261729/developmentGuidelines/blob/master/Rem/FQA.md)
+
 
 ### 微前端(正在爬坑...)
 - [个人微前端服务架构](https://github.com/xujun820261729/developmentGuidelines/blob/master/%E5%BE%AE%E6%9C%8D%E5%8A%A1/%E6%A6%82%E8%BF%B0.md)
