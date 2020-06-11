@@ -55,10 +55,14 @@
 - [sublime text3](http://www.sublimetext.com/3)、[常用插件](https://github.com/xujun820261729/developmentGuidelines/blob/master/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/sublimeText3.md)
 - [vscode](https://code.visualstudio.com/)、[常用插件](https://github.com/xujun820261729/developmentGuidelines/blob/master/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/vscode.md)
 
-
 #### md表情:https://www.webfx.com/tools/emoji-cheat-sheet/
 
-## :one 期
+
+
+
+
+
+## :one: 期
 
 
 1. [一名【合格】前端工程师的自检清单2020/6/11](https://juejin.im/post/5cc1da82f265da036023b628#heading-0)
