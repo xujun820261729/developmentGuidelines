@@ -66,3 +66,28 @@
 
 
 1. [一名【合格】前端工程师的自检清单2020/6/11](https://juejin.im/post/5cc1da82f265da036023b628#heading-0)
+
+
+##  第 :two: 期
+
+
+1. [初始化样式2020/6/16](https://github.com/necolas/normalize.css)
+
+
+## 第 :three: 期
+
+
+
+1. [响应式布局方案2020/6/24](https://blog.csdn.net/sinat_17775997/article/details/89087348)
+
+
+## 第 :four: 期
+
+
+1. [桌面开发](http://www.electronjs.org/)
+
+
+## 第 :five: 期
+
+
+1. [d3](https://www.d3js.org.cn/)
