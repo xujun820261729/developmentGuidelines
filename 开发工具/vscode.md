@@ -32,3 +32,22 @@
 31. Node.js Modules Intellisense -    在import语句中自动完成Node.js模块
 32. Open in Browser - 在vscode中打开浏览器访问
 33. Flutter -   Flutter移动应用程序的支持，以及对Dart编程语言的支持。
+
+
+#### FQA
+1. Q: vscode中如何使用Autoprefixer?
+- A: 使用 v2.2.0 版本, 基本配置 https://github.com/postcss/autoprefixer, 如下 simplay Demo
+```javascript
+   "autoprefixer.browsers": [
+        // "defaults" // 对应的 > 0.5%, last 2 versions, Firefox ESR, not dead
+        "> 1%", // 使用率
+        "last 2 versions", // 每个浏览器最后两个版本
+        "ie >= 9",  //ie9以上
+        "firefox >= 8", // 火狐
+        "chrome >= 24", // 谷歌
+        "Opera >= 10" // 欧朋，欧洲使用较多
+    ],
+```
+
+2. Q: Cssrem自动转换rem格式?
+- A: 配置  Root Font Size 字段,根据html的frontsize来控制这个值的大小 
