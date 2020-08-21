@@ -4,129 +4,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vue 中文字超过2行显示省略号 展开-收起</title>
   <style>
-    .content {
-      display: flex;
-      margin-bottom: 30px;
+    body{
+      margin:20px;
+      background-color: blanchedalmond;
     }
 
-    .text {
-      position: relative;
-      font-size: 14px;
-      line-height: 20px;
-      letter-spacing: 2px;
-      color: #666666;
-    }
-
-    .retract {
-      position: relative;
-      overflow: hidden;
-    }
-
-    .retract:after {
-      content: '...';
-      position: absolute;
-      bottom: 0;
-      right: 2px;
-      width: 25px;
-      padding-left: 30px;
-      background: linear-gradient(to right, transparent, #fff 45%);
-    }
-
-    .btn {
-      position: absolute;
-      right: 0;
-      bottom: -30px;
-      font-size: 14px;
-      line-height: 19px;
-      letter-spacing: 2px;
-      color: #FFAD41;
-      cursor: pointer;
-    }
-
-    .more {
-      font-size: 14px;
-      line-height: 20px;
-      letter-spacing: 2px;
-      color: #666666;
-      visibility: hidden;
-    }
   </style>
 </head>
 
 <body>
-  <div id="app">
-    <div class="view">
-      <div class="text more" ref="more">
-        占位
-      </div>
-      <div class="content" v-for="(item, index) in curData" :key="index">
-        <div class="text">
-          <div :class="{'retract': item.status}" :style="{'max-height':item.status ? textHeight: ''}" ref="textContainer">
-            {{item.desc}}
-          </div>
-          <div class="btn">
-            <p v-if="item.status" @click="item.status = false">展开</p>
-            <p v-if="item.status == false" @click="item.status = true">收起</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  <svg>
+    <defs>
+      <clipPath id="clipPath1">
+        <rect x="0" y="0" width="16" height="8" />
+      </clipPath>
+
+      <clipPath id="clipPath2">
+        <rect x="0" y="8" width="16" height="8" />
+      </clipPath>   
+  </defs>
+  <!-- <circle cx="25" cy="25" r="25" fill="#34538b" clip-path="url(#clipPath1)"/> -->
+  <text x="0" y="14" clip-path="url(#clipPath1)">测</text>
+  <text x="0" y="14" clip-path="url(#clipPath2)">测</text>
+  </svg>
 </body>
 
 </html>
-<script src="https://cdn.bootcss.com/vue/2.6.10/vue.min.js"></script>
-<script>
-  new Vue({
-    el: '#app',
-    data() {
-      return {
-        curData: [
-          { desc: '人物、情节、环境是小说的三要素。情节一般包括开端、发展、高潮、结局四部分，有的包括序幕、尾声。环境包括自然环境和社会环境。 小说按照篇幅及容量可分为长篇、中篇、短篇和微型小说（小小说）。按照表现的内容可分为神话、仙侠、武侠、科幻、悬疑、古传、当代、浪漫青春、游戏竞技等。按照体制可分为章回体小说、日记体小说、书信体小说、自传体小说。按照语言形式可分为文言小说和白话小说。' },
-          { desc: '小说刻画人物的方法：心理描写、动作描写、语言描写、外貌描写、神态描写，同时，小说是一种写作方法。' },
-          { desc: '与其他文学样式相比，小说的容量较大，它可以细致地展现人物性格和人物命运，可以表现错综复杂的矛盾冲突，同时还可以描述人物所处的社会生活环境。优势是可以提供整体的、广阔的社会生活。' },
-          { desc: '纯文学中的小说体裁讲究纯粹性。“谎言去尽之谓纯。”(出自墨人钢《就是》创刊题词)便是所谓的“纯”。也就是说，小说在构思及写作的过程中能去尽政治谎言、道德谎言、商业谎言、维护阶级权贵谎言、愚民谎言等谎言，使呈现出来的小说成品具备纯粹的艺术性。小说的纯粹性是阅读者最重要的审美期待之一。随着时代的发展，不光是小说，整个文学的纯粹性逾来逾成为整个世界对文学审美的一个重要核心。' }
-        ],
-        textHeight: null
-      }
-    },
-    mounted() {
-      this.curData.forEach((ele, index) => {
-        this.$set(this.curData, index, Object.assign({}, ele, { status: null }))
-      })
-      // DOM 加载完执行
-      this.$nextTick(() => {
-        this.calculateText()
-      })
 
-      window.onresize = () => {
-        this.curData.forEach((ele, index) => {
-          this.$set(this.curData, index, Object.assign({}, ele, { status: null }))
-        })
-        setTimeout(() => {
-          this.calculateText()
-        }, 0)
-      }
-    },
-    methods: {
-      // 计算文字 显示展开 收起
-      calculateText() {
-        // 获取一行文字的height 计算当前文字比较列表文字
-        let oneHeight = this.$refs.more.scrollHeight
-        let twoHeight = oneHeight * 2 || 40
-        this.textHeight = `${twoHeight}px`
-        let txtDom = this.$refs.textContainer
-        for (let i = 0; i < txtDom.length; i++) {
-          let curHeight = txtDom[i].offsetHeight
-          if (curHeight > twoHeight) {
-            this.$set(this.curData, i, Object.assign({}, this.curData[i], { status: true }))
-          } else {
-            this.$set(this.curData, i, Object.assign({}, this.curData[i], { status: null }))
-          }
-        }
-      }
-    }
-  })
-</script>

@@ -102,4 +102,13 @@
 
 ## 第 :seven:  期 :umbrella:
 
-1. d3 4.13 -地图(7.14-8.11)
+1. [d3-4.13-学习](https://github.com/xujun820261729/developmentGuidelines/blob/master/D3/study.md)
+
+
+## 第 :eight:  期 :watermelon:
+
+1. [贝塞尔曲线-生成工具](http://cubic-bezier.com/) 
+2. [贝塞尔曲线-学习](http://www.fly63.com/article/detial/6063)
+3. [跨平台-dcloud-uni-app](https://uniapp.dcloud.net.cn/)
+4. [跨平台-taro](https://taro.aotu.io/)
+5. [uni-app-dxperience](https://github.com/xujun820261729/developmentGuidelines/blob/master/Vue/uni-app-study.md)
