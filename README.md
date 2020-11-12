@@ -123,4 +123,4 @@
 ## 第 :keycap_ten: 期 :hotsprings:
 
 1. [redux版本-React-ssr]()
-2. [算法](https://github.com/xujun820261729/developmentGuidelines/%E7%AE%97%E6%B3%95/stuty.md)
+2. [算法](https://github.com/xujun820261729/developmentGuidelines/blob/master/算法/stuty.md)
