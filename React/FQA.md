@@ -26,3 +26,13 @@ Object.keys(entries).forEach(function(name) {
    webpackConfig.plugins.push(plugin);
 })
 ```
+
+
+2. React 中 拖拽用什么库?
+- A: dnd：https://react-dnd.github.io/react-dnd/examples/nesting/drag-sources 
+
+3. 关于redux 的数据流如何使用?
+- A: [推荐指导](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
+    1. store 的引入:createStore(reducer);
+    2. 监听: store.subscribe()
+    3. 中间件的使用

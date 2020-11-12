@@ -114,9 +114,13 @@
 5. [uni-app-dxperience](https://github.com/xujun820261729/developmentGuidelines/blob/master/Vue/uni-app-study.md)
 
 
-## :nine:期 :shipit:
-
+## 第 :nine: 期 :shipit:
 
 1. [IntersectionObserver-lazyload-无限滚动](https://github.com/xujun820261729/developmentGuidelines/blob/master/Vue/lazyload.md)
-2. [React多页面]([个人项目-ts](https://github.com/xujun820261729/developmentGuidelines/React/FQA.md)
+2. [React多页面](https://github.com/xujun820261729/developmentGuidelines/React/FQA.md)
 3. [single-spa-微前端](https://github.com/single-spa/single-spa)
+
+## 第 :keycap_ten: 期 :hotsprings:
+
+1. [redux版本-React-ssr]()
+2. [算法](https://github.com/xujun820261729/developmentGuidelines/%E7%AE%97%E6%B3%95/stuty.md)
