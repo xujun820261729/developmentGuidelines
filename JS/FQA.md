@@ -6,6 +6,3 @@
     ua.match(/Mobile MQQBrowser/i)=="mobile mqqbrowser" //QQ
     ua.match(/Android/i)=="android" // 安卓
 ```
-
-2. Q: 动态生成Array长度简单方式?
-- A: Array(100).fill(0)0

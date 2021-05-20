@@ -128,6 +128,4 @@
 
 ## 第 :one: :one: 期  :cherries:
 
-1. [新公司都是使用taro的，个人学习总结下](https://github.com/xujun820261729/developmentGuidelines/blob/master/多端/taro.md)
-2. [近期将使用RN,个人心得](https://github.com/xujun820261729/developmentGuidelines/blob/master/ReactNative/RN.md)
-3. [mac使用心得](https://github.com/xujun820261729/developmentGuidelines/blob/master/mac/mac.md)
+1. 

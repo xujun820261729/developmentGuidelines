@@ -46,3 +46,23 @@ Object.keys(entries).forEach(function(name) {
 
 5. Q: UmiJS (pro)框架代码打包的优化?
 - A: 由于项目持续迭代添加新的代码?如何优化打包? [link](https://umijs.org/zh-CN/guide/boost-compile-speed#调整-splitchunks-策略，减少整体尺寸)
+
+
+6. Q: package.json 字段代表什么意思?
+- A: 如下：
+  1. npm init  生成
+  2. 
+    - name: 包名
+    - version: 版本
+    - description: 描述
+    - main: 入口文件
+    - scripts: 执行文件
+    - author: 作者
+    - license: 许可证
+    - repository: 项目地址
+    - homepage: 首页地址
+    - config: 环境变量
+    - dependencies: 生产环境的依赖
+    - devDependencies: 开发依赖
+    - browserslist: 浏览器兼容
+    - bugs: bug单的地址
