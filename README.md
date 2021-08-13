@@ -121,4 +121,8 @@
 
 1. 2021(6-7) :vite 学习,vue3 学习,rollupjs 学习
 2. 常用的 commit [表情](https://zhuanlan.zhihu.com/p/139600720)
-3. 2021.7.15 临时学习 ios 相关知识
+3. 2021.7.15-8.10 临时学习 ios 相关知识(基本入门) [指引](https://github.com/xujun820261729/developmentGuidelines/blob/master/IOS)
+
+## 第 :one: :two: 期
+
+1. 21 年 8 月 复习，核心 专向 node.js TS Loadsh
